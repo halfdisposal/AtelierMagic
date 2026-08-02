@@ -1,5 +1,8 @@
 # AtelierMagic
 A game simulator for the "Witch Hat Atelier" magic system.
+
+![Demo GIF](example1.gif)
+
 # Installation
 The entire simulation is self contained. All needed is to install the zip file and run the program
 *Currently available only for windows*
