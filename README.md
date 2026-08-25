@@ -17,4 +17,4 @@ Ofcourse, the anime *Witch Hat Atelier*
 
 [Witch Hat Atelier Fandom](https://witch-hat-atelier.fandom.com/wiki/Magic)
 
-[Nerva dof's implementation of the magic system](https://youtu.be/zVWYW0K3ikg), definitely check out his channel!
+And definitely inspired by [Nerva dof's](https://youtu.be/zVWYW0K3ikg) implementation of the magic system, definitely check out his channel!
