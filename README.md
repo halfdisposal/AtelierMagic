@@ -10,3 +10,9 @@ The entire simulation is self contained. All needed is to install the zip file a
 # Versions
 ## v0.1
 Initial Release. Basic Elemental Glyphs and Keystone Spells. A simple but exhaustive pattern-matching for spell classification.
+
+
+# Reference
+Ofcourse, the anime *Witch Hat Atelier*
+
+[Witch Hat Atelier Fandom](https://witch-hat-atelier.fandom.com/wiki/Magic)
